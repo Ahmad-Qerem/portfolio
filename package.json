@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Ahmad-Qerem.github.io/portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +24,6 @@
     "eslint-plugin-vue": "^8.0.3",
     "gh-pages": "^5.0.0"
   },
-  "homepage": "https://Ahmad-Qerem.github.io/portfolio",
   "eslintConfig": {
     "root": true,
     "env": {
